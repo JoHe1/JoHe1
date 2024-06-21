@@ -3,7 +3,7 @@
 </h1>
 
 <h2>
-  Sobre mí:
+  Sobre mí
 </h2>
 
 👩🏻‍💻 Estudiante de Ciencia e Ingeniería de Datos  
@@ -11,6 +11,10 @@
 💭 Actualmente aprendiendo sobre análisis de datos y desarrollo de software
 
 <br>
+
+<h2>
+  Estadísticas
+</h2>
 
 <!-- Github Stats --> 
 <div style="display: flex; justify-content: space-between; align-items: center;">
