@@ -6,5 +6,17 @@
 🌱 Estoy muy interesado en el mundo de la programación y resolución de problemas  
 💭 Actualmente aprendiendo sobre análisis de datos y desarrollo de software
 
-![Jorge GitHub stats](https://github-readme-stats.vercel.app/api?username=JoHe1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=JoHe1&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=JoHe1&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoHe1&show_icons=true" />
+</picture>
+
+<!--![Jorge GitHub stats](https://github-readme-stats.vercel.app/api?username=JoHe1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)-->
