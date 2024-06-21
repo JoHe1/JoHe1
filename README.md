@@ -10,6 +10,20 @@
 🌱 Estoy muy interesado en el mundo de la programación y resolución de problemas  
 💭 Actualmente aprendiendo sobre análisis de datos y desarrollo de software
 
+<br>
+
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
+  </a>
+</div>
+
 <h2>
   Estadísticas
 </h2>
@@ -24,14 +38,4 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
-  </a>
-</div>
+
