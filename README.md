@@ -6,4 +6,7 @@
 🌱 Estoy muy interesado en el mundo de la programación y resolución de problemas  
 💭 Actualmente aprendiendo sobre análisis de datos y desarrollo de software
 
-![Jorge GitHub stats](https://github-readme-stats.vercel.app/api?username=JoHe1&show_icons=true&theme=radical)
+<div align="center">
+  ![Jorge GitHub stats](https://github-readme-stats.vercel.app/api?username=JoHe1&show_icons=true&theme=radical)
+</div>
+
