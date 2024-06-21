@@ -6,17 +6,13 @@
 🌱 Estoy muy interesado en el mundo de la programación y resolución de problemas  
 💭 Actualmente aprendiendo sobre análisis de datos y desarrollo de software
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JoHe1&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JoHe1&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=JoHe1&show_icons=true" />
-</picture>
+<!-- Github Stats --> 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoHe1&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoHe1&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
 
 <!--![Jorge GitHub stats](https://github-readme-stats.vercel.app/api?username=JoHe1&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)-->
