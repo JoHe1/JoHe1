@@ -10,8 +10,6 @@
 🌱 Estoy muy interesado en el mundo de la programación y resolución de problemas  
 💭 Actualmente aprendiendo sobre análisis de datos y desarrollo de software
 
-<br>
-
 <h2>
   Estadísticas
 </h2>
